@@ -1,4 +1,5 @@
-printf🎉
+Printf Alx group project 🎉
+________________________________________
 Description📄
 ________________________________________
  
@@ -158,7 +159,10 @@ Handle the following custom conversion specifier:
 Handle the following custom conversion specifier:
 •	R: prints the rot13'ed string
 All the above options work well together.
+________________________________________
 Authors ©
+________________________________________
+
 •	Sally Mohamed
 •	Sara Ahmed
 
